@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Игнорируем файл с базой данных
+# movies_data.json
+
+# Игнорируем виртуальные окружения
+venv/
+env/
+.env
+
+# Игнорируем системные файлы
+.DS_Store
+Thumbs.db
